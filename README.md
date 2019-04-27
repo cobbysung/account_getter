@@ -6,7 +6,7 @@
 - 代码仅供学习参考使用，请勿用于非法用途
 
 #### 软件架构
-![image](https://s2.ax1x.com/2019/04/27/EnjwjJ.png)
+![image](https://raw.githubusercontent.com/cobbysung/account_getter/master/structure.png)
 * engine
 * scheduler
 * parser
@@ -62,5 +62,5 @@ Usage of ./entry:
 - 查看获取账号，打开地址：[http://localhost:8000/home](http://localhost:8000/home)
  
 - 演示
- ![img](https://s2.ax1x.com/2019/04/27/Eu0tIO.gif)
+ ![img](https://raw.githubusercontent.com/cobbysung/account_getter/master/demo.gif)
 
