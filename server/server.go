@@ -36,7 +36,7 @@ func (s OrderSlice) Less(i, j int) bool {
 func RunHttpServ(port string) {
 
 	http.HandleFunc("/home", func(writer http.ResponseWriter, request *http.Request) {
-		html, _ := ioutil.ReadFile("./server/home.html")
+		html, _ := ioutil.ReadFile("./data/home.html")
 		writer.Write(html)
 	})
 	http.HandleFunc("/get_list", func(writer http.ResponseWriter, request *http.Request) {
