@@ -6,7 +6,14 @@
 - 代码仅供学习参考使用，请勿用于非法用途
 
 #### 软件架构
-![image](https://raw.githubusercontent.com/cobbysung/account_getter/master/structure.png)
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/cobbysung/account_getter/master/structure.png"  width="80%" height="80%">
+	<p align="center">
+		<em>架构图</em>
+	</p>
+</p>
+
 * engine
 * scheduler
 * parser
