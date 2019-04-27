@@ -8,10 +8,7 @@
 #### 软件架构
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/cobbysung/account_getter/master/structure.png"  width="80%" height="80%">
-	<p align="center">
-		<em>架构图</em>
-	</p>
+    <img src="https://raw.githubusercontent.com/cobbysung/account_getter/master/structure.png"  width="80%" height="80%">
 </p>
 
 * engine
