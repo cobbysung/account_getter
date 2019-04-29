@@ -161,12 +161,12 @@ func GetOrderDaysType(item models.OrderDetail) (int64, string) {
 		"thunder": {
 			{"money": 2.88, "days": 2},
 			{"money": 4.5, "days": 18},
-			{"money": 4.9, "days": 20},
 			{"money": 6.9, "days": 21},
 			{"money": 7.5, "days": 0}, //激活码
 			{"money": 7.9, "days": 30},
 		},
 		"youku": {
+			{"money": 4.9, "days": 30},
 			{"money": 6.80, "days": 52},
 			{"money": 7.80, "days": 60},
 			{"money": 55, "days": 365},
